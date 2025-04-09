@@ -1,0 +1,15 @@
+:root{
+    /* cores */
+
+    --bg-1: #132936;
+    --bg-2: #3b5265;
+    --bg-3: #051824;
+    --verde: #27e9b5; 
+    --verde-alternativo: #00d5b5;
+    --verde-escuro: #050505;
+
+    --text-color-1: #d4e4ed;
+    --text-color-2: #d8e3e9;
+    --text-color-3: #49585a;
+    --text-color-4: #0d2e45;
+}
