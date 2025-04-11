@@ -12,7 +12,7 @@ footer{
     justify-content: center;
     align-items: center;
     padding: 1rem;
-    margin: auto;
+    margin: 1rem 0;
     width: 100%;
 }
 
@@ -25,7 +25,7 @@ footer .developed-by{
     gap: 1rem;
     font-size: 1.6rem;
     color: var(--text-color-1);
-    text-shadow: 0 0 5px var(--text-color-4);
+    text-shadow: 0 0 3px var(--text-color-4), 0 0 6px var(--text-color-4);
     font-family: var(--share-tech);
 
 }
@@ -44,7 +44,7 @@ footer .developed-by a{
     font-weight: 900;
     transition: all 200ms ease-in-out;
     color: var(--text-color-1);
-    text-shadow: 0px 0px 5px var(--text-color-4);
+    text-shadow: 0px 0px 3px var(--text-color-4), 0px 0px 6px var(--text-color-4);
         
     &::before{
         content: '</ALUCINADO>';
